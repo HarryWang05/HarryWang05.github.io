@@ -1077,4 +1077,6 @@ section {
 
 .skills_bold {
   font-weight: bold;
+  margin: 3px;
+  color: #149ddd;
 }
